@@ -1,5 +1,6 @@
 # AK-MAX PAID COMAND ENJOY 
 💥AK-MAX PAID TOOL💥
+
 pkg update
 
 pkg upgrade
